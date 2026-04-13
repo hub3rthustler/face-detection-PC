@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a real-time face recognition system using a webcam. It identifies two predefined individuals and classifies all other faces as UNKNOWN. The system is optimized for GPU acceleration on NVIDIA RTX hardware.
+This project implements a real-time face recognition system using a webcam. It identifies two predefined individuals and classifies all other faces as UNKNOWN. The system is optimized for GPU acceleration on NVIDIA RTX hardware. Project works only for two mainly because of hardware limitations.
 
 ## Key Features
 
